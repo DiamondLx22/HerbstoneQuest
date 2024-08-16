@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 3674add23ef06ed4286ce83a6847d67f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: autumn forest, tree tops (leaves)_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -49}
+        - {x: -8, y: -41}
+        - {x: 8, y: -41}
+        - {x: 8, y: -49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57627869ed66d0a459898419fa75d1b8
+      internalID: 1016050385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest, tree tops (leaves)_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -49}
+        - {x: -8, y: -41}
+        - {x: 8, y: -41}
+        - {x: 8, y: -49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63341b0df3d22f144b1650800ead65ad
+      internalID: 688509445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest, tree tops (leaves)_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 48
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -49}
+        - {x: -2, y: -41}
+        - {x: 4, y: -41}
+        - {x: 4, y: -48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a035cbcb31d8d24d8cfea1c37f643ef
+      internalID: -125450975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      autumn forest, tree tops (leaves)_0: 204342629
+      autumn forest, tree tops (leaves)_1: -1142315303
+      autumn forest, tree tops (leaves)_10: -580315602
+      autumn forest, tree tops (leaves)_11: -1229408010
+      autumn forest, tree tops (leaves)_12: -339811387
+      autumn forest, tree tops (leaves)_13: -1795009176
+      autumn forest, tree tops (leaves)_14: 1641935525
+      autumn forest, tree tops (leaves)_15: 1493694115
+      autumn forest, tree tops (leaves)_16: -1793348422
+      autumn forest, tree tops (leaves)_17: -770789324
+      autumn forest, tree tops (leaves)_18: 2113778912
+      autumn forest, tree tops (leaves)_19: -1972200140
+      autumn forest, tree tops (leaves)_2: -375814607
+      autumn forest, tree tops (leaves)_20: -869739093
+      autumn forest, tree tops (leaves)_21: -1193820402
+      autumn forest, tree tops (leaves)_22: 1042262423
+      autumn forest, tree tops (leaves)_23: -1239646284
+      autumn forest, tree tops (leaves)_24: -826853130
+      autumn forest, tree tops (leaves)_25: -487116523
+      autumn forest, tree tops (leaves)_26: -1404718346
+      autumn forest, tree tops (leaves)_27: 811970925
+      autumn forest, tree tops (leaves)_28: -176209400
+      autumn forest, tree tops (leaves)_29: 1433244683
+      autumn forest, tree tops (leaves)_3: 641313770
+      autumn forest, tree tops (leaves)_30: 758395293
+      autumn forest, tree tops (leaves)_31: 1944456912
+      autumn forest, tree tops (leaves)_32: -89720962
+      autumn forest, tree tops (leaves)_33: -436705125
+      autumn forest, tree tops (leaves)_34: -866517873
+      autumn forest, tree tops (leaves)_35: 699261995
+      autumn forest, tree tops (leaves)_36: -1474171354
+      autumn forest, tree tops (leaves)_37: 803394729
+      autumn forest, tree tops (leaves)_38: -320929582
+      autumn forest, tree tops (leaves)_39: 1951143513
+      autumn forest, tree tops (leaves)_4: -319732206
+      autumn forest, tree tops (leaves)_40: -359597693
+      autumn forest, tree tops (leaves)_41: -1725801544
+      autumn forest, tree tops (leaves)_42: -100066483
+      autumn forest, tree tops (leaves)_43: -1621202924
+      autumn forest, tree tops (leaves)_44: -1026089045
+      autumn forest, tree tops (leaves)_45: 1347742762
+      autumn forest, tree tops (leaves)_46: 1966067757
+      autumn forest, tree tops (leaves)_47: 315548378
+      autumn forest, tree tops (leaves)_48: 350037378
+      autumn forest, tree tops (leaves)_49: -472249217
+      autumn forest, tree tops (leaves)_5: -2052763268
+      autumn forest, tree tops (leaves)_50: -1076748891
+      autumn forest, tree tops (leaves)_51: 699813375
+      autumn forest, tree tops (leaves)_52: 1342457796
+      autumn forest, tree tops (leaves)_53: -1107320453
+      autumn forest, tree tops (leaves)_54: 1481261251
+      autumn forest, tree tops (leaves)_55: -1209886335
+      autumn forest, tree tops (leaves)_56: -1746805365
+      autumn forest, tree tops (leaves)_57: -971187788
+      autumn forest, tree tops (leaves)_58: 1816330968
+      autumn forest, tree tops (leaves)_59: 172091764
+      autumn forest, tree tops (leaves)_6: -673059490
+      autumn forest, tree tops (leaves)_60: 2137725203
+      autumn forest, tree tops (leaves)_61: -1466121949
+      autumn forest, tree tops (leaves)_62: -1018150241
+      autumn forest, tree tops (leaves)_63: 1763046842
+      autumn forest, tree tops (leaves)_64: -1506066901
+      autumn forest, tree tops (leaves)_65: 1016050385
+      autumn forest, tree tops (leaves)_66: 688509445
+      autumn forest, tree tops (leaves)_67: -125450975
+      autumn forest, tree tops (leaves)_7: -977495654
+      autumn forest, tree tops (leaves)_8: 708615205
+      autumn forest, tree tops (leaves)_9: 862445580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

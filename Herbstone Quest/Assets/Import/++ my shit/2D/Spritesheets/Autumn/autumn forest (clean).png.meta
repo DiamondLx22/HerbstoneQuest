@@ -1,0 +1,1438 @@
+fileFormatVersion: 2
+guid: ee20cddd16bfae940ac4d4701b971f8d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: autumn forest (bare)_235
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -14}
+        - {x: -13, y: 0}
+        - {x: 13, y: 0}
+        - {x: 5, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f9fed2e0dbf14e967eac4595d7c7b
+      internalID: -714986753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_267
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -5}
+        - {x: -13, y: 8}
+        - {x: 13, y: 8}
+        - {x: 4, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb26964768b8414498fc4a41d018cb8
+      internalID: -1977041791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_298
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -3}
+        - {x: -13, y: 8}
+        - {x: 12, y: 8}
+        - {x: 4, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988feb04442386243aaf852d82f7d48c
+      internalID: 865828846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_470
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -40}
+        - {x: -4, y: -53}
+        - {x: 4, y: -53}
+        - {x: 8, y: -40}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5169ce09e43cd44a392320232ba0ac
+      internalID: -1713137752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_473
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -32}
+        - {x: -4, y: -45}
+        - {x: 4, y: -45}
+        - {x: 7, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7868dc520a4354a9959db62c20321c
+      internalID: 1822209341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_475
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -43}
+        - {x: -2, y: -32}
+        - {x: 4, y: -32}
+        - {x: 4, y: -42}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31b5d815430ca40968a9a803ead171
+      internalID: -1095829514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_497
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -4, y: -5}
+        - {x: 4, y: -5}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8fb0db926ab654790158ed6f80415d
+      internalID: 1539391483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_499
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eee86a96cbeb21458c89399deab02ee
+      internalID: -7051189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_502
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -4, y: -5}
+        - {x: 4, y: -5}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16f01b3463aab649b04430099f14520
+      internalID: 1688817986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_504
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4191859b970a3e143b321e2918afc5bb
+      internalID: -872400669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_505
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -2, y: -3}
+        - {x: 4, y: -2}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b33ee92998e5d4a88be809b1175a97
+      internalID: -793039349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_506
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86b7d9c30c2c4429785d25e6b6dba4
+      internalID: 928840984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_526
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -1}
+        - {x: -4, y: -13}
+        - {x: 4, y: -13}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1c7768dccd0a2428f47eb0d6e479db
+      internalID: -427624839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_530
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70c7e932c734747afd131e2c31a0a7
+      internalID: 1554406478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_531
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -1}
+        - {x: -4, y: -13}
+        - {x: 4, y: -13}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b4ab812f96acd44a97a38da7a2b3f8
+      internalID: 1482858264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_535
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a12d32353c38542b515d2a57a8102e
+      internalID: 1598460522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_536
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -3}
+        - {x: 4, y: -2}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d0b77ce0e65e449bc2040b960b690
+      internalID: -1189966943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_537
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 1}
+        - {x: -4, y: -3}
+        - {x: 4, y: -2}
+        - {x: 4, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435c68e868382684ab1188cd19024543
+      internalID: -344022127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_538
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c823413a4cfc77049938137d16b0d3d2
+      internalID: -1346633716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_569
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -5}
+        - {x: -20, y: -4}
+        - {x: -20, y: 0}
+        - {x: -2, y: -2}
+        - {x: 19, y: 4}
+        - {x: 20, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c08ab1f6d20446ae41a896b810052
+      internalID: -743871199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_591
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -13}
+        - {x: -20, y: -7}
+        - {x: 14, y: 0}
+        - {x: 18, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa57f0858ba497498221e5d04aa1587
+      internalID: 1411214923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_594
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -13}
+        - {x: -20, y: -7}
+        - {x: 14, y: 0}
+        - {x: 18, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0805505aba7c644a57256b0caee006
+      internalID: -1566807915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_597
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -15}
+        - {x: -11, y: 4}
+        - {x: 7, y: 4}
+        - {x: 15, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e208ae7f7a281244b35bdc1bbf07436
+      internalID: -1528650203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_598
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -15}
+        - {x: -11, y: 4}
+        - {x: 7, y: 4}
+        - {x: 15, y: -11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea981485fcc121340a5a1ef09403a2a3
+      internalID: 86188520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn forest (bare)_601
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -5}
+        - {x: -20, y: -4}
+        - {x: -20, y: 0}
+        - {x: -2, y: -2}
+        - {x: 19, y: 4}
+        - {x: 20, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958408d2943e5f54289c76da4823d703
+      internalID: 1996128834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      autumn forest (bare)_0: 954695936
+      autumn forest (bare)_1: 1091012991
+      autumn forest (bare)_10: 842847816
+      autumn forest (bare)_100: -438219531
+      autumn forest (bare)_101: 1411137392
+      autumn forest (bare)_102: 1046963715
+      autumn forest (bare)_103: -884552384
+      autumn forest (bare)_104: 907357755
+      autumn forest (bare)_105: 409242104
+      autumn forest (bare)_106: 560943031
+      autumn forest (bare)_107: -1257895954
+      autumn forest (bare)_108: 928871036
+      autumn forest (bare)_109: 1578367890
+      autumn forest (bare)_11: 393064544
+      autumn forest (bare)_110: 1722289906
+      autumn forest (bare)_111: 1430839492
+      autumn forest (bare)_112: 1314202328
+      autumn forest (bare)_113: -1042885230
+      autumn forest (bare)_114: 1071064071
+      autumn forest (bare)_115: 1319389510
+      autumn forest (bare)_116: 607809532
+      autumn forest (bare)_117: -2069221543
+      autumn forest (bare)_118: 2108348005
+      autumn forest (bare)_119: -711453403
+      autumn forest (bare)_12: -41544821
+      autumn forest (bare)_120: -1611027306
+      autumn forest (bare)_121: 258659465
+      autumn forest (bare)_122: 878292985
+      autumn forest (bare)_123: 969045783
+      autumn forest (bare)_124: 1165511280
+      autumn forest (bare)_125: -1688977491
+      autumn forest (bare)_126: 1100020858
+      autumn forest (bare)_127: 624218081
+      autumn forest (bare)_128: 1100200333
+      autumn forest (bare)_129: 763195027
+      autumn forest (bare)_13: 2106316734
+      autumn forest (bare)_130: -2127243496
+      autumn forest (bare)_131: -1904647039
+      autumn forest (bare)_132: 756079174
+      autumn forest (bare)_133: -665449512
+      autumn forest (bare)_134: -1639384884
+      autumn forest (bare)_135: 21276299
+      autumn forest (bare)_136: -1170455258
+      autumn forest (bare)_137: 1778435254
+      autumn forest (bare)_138: 1149280335
+      autumn forest (bare)_139: 2083816216
+      autumn forest (bare)_14: 333764597
+      autumn forest (bare)_140: 1122934274
+      autumn forest (bare)_141: -1566216336
+      autumn forest (bare)_142: -1905906023
+      autumn forest (bare)_143: 886533679
+      autumn forest (bare)_144: 349792579
+      autumn forest (bare)_145: -1101162691
+      autumn forest (bare)_146: 2085785032
+      autumn forest (bare)_147: 1016019251
+      autumn forest (bare)_148: -836337645
+      autumn forest (bare)_149: 545234059
+      autumn forest (bare)_15: -1895207473
+      autumn forest (bare)_150: 2026325420
+      autumn forest (bare)_151: 73303322
+      autumn forest (bare)_152: -404980222
+      autumn forest (bare)_153: -137507386
+      autumn forest (bare)_154: -821238168
+      autumn forest (bare)_155: 1737241138
+      autumn forest (bare)_156: 416425258
+      autumn forest (bare)_157: 1486343058
+      autumn forest (bare)_158: -84947535
+      autumn forest (bare)_159: -865796677
+      autumn forest (bare)_16: 2065611153
+      autumn forest (bare)_160: 696401427
+      autumn forest (bare)_161: 1428396352
+      autumn forest (bare)_162: -1296008716
+      autumn forest (bare)_163: -2028876204
+      autumn forest (bare)_164: -1641180706
+      autumn forest (bare)_165: 430963272
+      autumn forest (bare)_166: 291319392
+      autumn forest (bare)_167: 759529630
+      autumn forest (bare)_168: -1483268715
+      autumn forest (bare)_169: 707317809
+      autumn forest (bare)_17: 1469429586
+      autumn forest (bare)_170: -1478542488
+      autumn forest (bare)_171: 610792158
+      autumn forest (bare)_172: 644609441
+      autumn forest (bare)_173: -497630290
+      autumn forest (bare)_174: 982493267
+      autumn forest (bare)_175: -1632734164
+      autumn forest (bare)_176: 102118032
+      autumn forest (bare)_177: -699191916
+      autumn forest (bare)_178: 1216948705
+      autumn forest (bare)_179: -800357304
+      autumn forest (bare)_18: -1943801139
+      autumn forest (bare)_180: -1115788595
+      autumn forest (bare)_181: -673915542
+      autumn forest (bare)_182: 1292071714
+      autumn forest (bare)_183: 1403178193
+      autumn forest (bare)_184: 818014767
+      autumn forest (bare)_185: -1975721131
+      autumn forest (bare)_186: -1094083115
+      autumn forest (bare)_187: 1904327454
+      autumn forest (bare)_188: -1418207614
+      autumn forest (bare)_189: 650751487
+      autumn forest (bare)_19: 413633644
+      autumn forest (bare)_190: 1369484421
+      autumn forest (bare)_191: 1058126347
+      autumn forest (bare)_192: -671887117
+      autumn forest (bare)_193: -1679950754
+      autumn forest (bare)_194: 941505788
+      autumn forest (bare)_195: -1960689187
+      autumn forest (bare)_196: 1773433219
+      autumn forest (bare)_197: -1484119935
+      autumn forest (bare)_198: -242983016
+      autumn forest (bare)_199: -1586033735
+      autumn forest (bare)_2: 116712020
+      autumn forest (bare)_20: -1599246174
+      autumn forest (bare)_200: 203053047
+      autumn forest (bare)_201: 692439688
+      autumn forest (bare)_202: 1565321443
+      autumn forest (bare)_203: 1176610504
+      autumn forest (bare)_204: -472768918
+      autumn forest (bare)_205: 1559444985
+      autumn forest (bare)_206: -2062868380
+      autumn forest (bare)_207: 525906733
+      autumn forest (bare)_208: 1422210802
+      autumn forest (bare)_209: -977468052
+      autumn forest (bare)_21: -1339797944
+      autumn forest (bare)_210: 1540392214
+      autumn forest (bare)_211: -1058916839
+      autumn forest (bare)_212: 36086007
+      autumn forest (bare)_213: 1070734534
+      autumn forest (bare)_214: -714644691
+      autumn forest (bare)_215: -504572275
+      autumn forest (bare)_216: 1281780689
+      autumn forest (bare)_217: 1046552638
+      autumn forest (bare)_218: 959052026
+      autumn forest (bare)_219: -971072107
+      autumn forest (bare)_22: 1625717820
+      autumn forest (bare)_220: 697238669
+      autumn forest (bare)_221: 313517928
+      autumn forest (bare)_222: 63667775
+      autumn forest (bare)_223: 569783361
+      autumn forest (bare)_224: -428064385
+      autumn forest (bare)_225: 373788723
+      autumn forest (bare)_226: 225392102
+      autumn forest (bare)_227: -88908151
+      autumn forest (bare)_228: -1969628381
+      autumn forest (bare)_229: -765430129
+      autumn forest (bare)_23: -870860391
+      autumn forest (bare)_230: -1112945647
+      autumn forest (bare)_231: -433263724
+      autumn forest (bare)_232: 685203121
+      autumn forest (bare)_233: 711467338
+      autumn forest (bare)_234: -730905937
+      autumn forest (bare)_235: -714986753
+      autumn forest (bare)_236: -1292334676
+      autumn forest (bare)_237: 1008283991
+      autumn forest (bare)_238: -315978712
+      autumn forest (bare)_239: 1927473871
+      autumn forest (bare)_24: -1639428774
+      autumn forest (bare)_240: 1756682337
+      autumn forest (bare)_241: -1164735160
+      autumn forest (bare)_242: -1857349429
+      autumn forest (bare)_243: -1890354515
+      autumn forest (bare)_244: -1142226195
+      autumn forest (bare)_245: -392187586
+      autumn forest (bare)_246: -827079775
+      autumn forest (bare)_247: 1551412100
+      autumn forest (bare)_248: 1963857639
+      autumn forest (bare)_249: -1914250340
+      autumn forest (bare)_25: -13244123
+      autumn forest (bare)_250: 167388018
+      autumn forest (bare)_251: -1214334965
+      autumn forest (bare)_252: -1809241761
+      autumn forest (bare)_253: -759758006
+      autumn forest (bare)_254: 889919103
+      autumn forest (bare)_255: -1605310669
+      autumn forest (bare)_256: -587672325
+      autumn forest (bare)_257: 2035232999
+      autumn forest (bare)_258: 747830339
+      autumn forest (bare)_259: 2107934327
+      autumn forest (bare)_26: -1037569421
+      autumn forest (bare)_260: 266239963
+      autumn forest (bare)_261: -17517394
+      autumn forest (bare)_262: -320500979
+      autumn forest (bare)_263: -232851318
+      autumn forest (bare)_264: 1524055200
+      autumn forest (bare)_265: 716617883
+      autumn forest (bare)_266: -1112342618
+      autumn forest (bare)_267: -1977041791
+      autumn forest (bare)_268: 137590056
+      autumn forest (bare)_269: 10693557
+      autumn forest (bare)_27: 1245170159
+      autumn forest (bare)_270: 814383232
+      autumn forest (bare)_271: 1351022011
+      autumn forest (bare)_272: 922880591
+      autumn forest (bare)_273: 334990935
+      autumn forest (bare)_274: 432713555
+      autumn forest (bare)_275: -110197109
+      autumn forest (bare)_276: 548064617
+      autumn forest (bare)_277: 360986429
+      autumn forest (bare)_278: -656347118
+      autumn forest (bare)_279: -1964082922
+      autumn forest (bare)_28: 439617112
+      autumn forest (bare)_280: -1348168141
+      autumn forest (bare)_281: -134940384
+      autumn forest (bare)_282: 366750224
+      autumn forest (bare)_283: 1598988082
+      autumn forest (bare)_284: 2094991586
+      autumn forest (bare)_285: -1786774617
+      autumn forest (bare)_286: 677607474
+      autumn forest (bare)_287: 1558023519
+      autumn forest (bare)_288: -596283025
+      autumn forest (bare)_289: -1117061025
+      autumn forest (bare)_29: 21338840
+      autumn forest (bare)_290: 1514110347
+      autumn forest (bare)_291: -2003801587
+      autumn forest (bare)_292: -460826534
+      autumn forest (bare)_293: -10571699
+      autumn forest (bare)_294: 855243733
+      autumn forest (bare)_295: 570080128
+      autumn forest (bare)_296: 28096007
+      autumn forest (bare)_297: 2127184424
+      autumn forest (bare)_298: 865828846
+      autumn forest (bare)_299: -1727940698
+      autumn forest (bare)_3: 1976438812
+      autumn forest (bare)_30: 333052472
+      autumn forest (bare)_300: -2017936925
+      autumn forest (bare)_301: -1531024289
+      autumn forest (bare)_302: 172455745
+      autumn forest (bare)_303: -620180685
+      autumn forest (bare)_304: 891591505
+      autumn forest (bare)_305: 681480493
+      autumn forest (bare)_306: -879397701
+      autumn forest (bare)_307: 1738193514
+      autumn forest (bare)_308: -1725074884
+      autumn forest (bare)_309: 224015176
+      autumn forest (bare)_31: 774681023
+      autumn forest (bare)_310: 1783657433
+      autumn forest (bare)_311: -33985925
+      autumn forest (bare)_312: -1237256540
+      autumn forest (bare)_313: 1674285295
+      autumn forest (bare)_314: -406237335
+      autumn forest (bare)_315: 973053058
+      autumn forest (bare)_316: 1727448256
+      autumn forest (bare)_317: -1992764790
+      autumn forest (bare)_318: -993658266
+      autumn forest (bare)_319: 1304404508
+      autumn forest (bare)_32: 1731194485
+      autumn forest (bare)_320: 1397701842
+      autumn forest (bare)_321: -440295268
+      autumn forest (bare)_322: 1284664948
+      autumn forest (bare)_323: 432168969
+      autumn forest (bare)_324: -1998397123
+      autumn forest (bare)_325: 1983283527
+      autumn forest (bare)_326: 1163904012
+      autumn forest (bare)_327: -1154374754
+      autumn forest (bare)_328: 898366888
+      autumn forest (bare)_329: -1228745888
+      autumn forest (bare)_33: -463047602
+      autumn forest (bare)_330: 406699979
+      autumn forest (bare)_331: -396099290
+      autumn forest (bare)_332: 1741248612
+      autumn forest (bare)_333: -623718829
+      autumn forest (bare)_334: 422649166
+      autumn forest (bare)_335: 48542529
+      autumn forest (bare)_336: 418317145
+      autumn forest (bare)_337: 1394777852
+      autumn forest (bare)_338: -193221481
+      autumn forest (bare)_339: -1839546457
+      autumn forest (bare)_34: 821056845
+      autumn forest (bare)_340: -2045144866
+      autumn forest (bare)_341: 1121784568
+      autumn forest (bare)_342: 1192072148
+      autumn forest (bare)_343: -2144444538
+      autumn forest (bare)_344: 946613524
+      autumn forest (bare)_345: -615283256
+      autumn forest (bare)_346: 553331096
+      autumn forest (bare)_347: 578596144
+      autumn forest (bare)_348: 675030608
+      autumn forest (bare)_349: -1573557722
+      autumn forest (bare)_35: 1145901757
+      autumn forest (bare)_350: 259140236
+      autumn forest (bare)_351: 36042698
+      autumn forest (bare)_352: -361413478
+      autumn forest (bare)_353: -1294722143
+      autumn forest (bare)_354: -933645857
+      autumn forest (bare)_355: -915845316
+      autumn forest (bare)_356: 1534481042
+      autumn forest (bare)_357: -357600490
+      autumn forest (bare)_358: 201026525
+      autumn forest (bare)_359: 176042516
+      autumn forest (bare)_36: -2037363509
+      autumn forest (bare)_360: -1848578212
+      autumn forest (bare)_361: 1483139744
+      autumn forest (bare)_362: -685079536
+      autumn forest (bare)_363: -1971984030
+      autumn forest (bare)_364: 884574027
+      autumn forest (bare)_365: 1690822371
+      autumn forest (bare)_366: 452699770
+      autumn forest (bare)_367: 656815235
+      autumn forest (bare)_368: 530289793
+      autumn forest (bare)_369: 330155717
+      autumn forest (bare)_37: -1914232363
+      autumn forest (bare)_370: 219332721
+      autumn forest (bare)_371: 962348806
+      autumn forest (bare)_372: -1583460462
+      autumn forest (bare)_373: -223476546
+      autumn forest (bare)_374: -847077733
+      autumn forest (bare)_375: 2143016533
+      autumn forest (bare)_376: -804546381
+      autumn forest (bare)_377: -486139807
+      autumn forest (bare)_378: 1449149275
+      autumn forest (bare)_379: 317148803
+      autumn forest (bare)_38: -237104215
+      autumn forest (bare)_380: 157357231
+      autumn forest (bare)_381: 1078670695
+      autumn forest (bare)_382: -633507743
+      autumn forest (bare)_383: -1135915814
+      autumn forest (bare)_384: -396783296
+      autumn forest (bare)_385: -1460083555
+      autumn forest (bare)_386: 162346072
+      autumn forest (bare)_387: 2141561257
+      autumn forest (bare)_388: -452811824
+      autumn forest (bare)_389: 548719837
+      autumn forest (bare)_39: -1401815894
+      autumn forest (bare)_390: 541587715
+      autumn forest (bare)_391: -320640700
+      autumn forest (bare)_392: 1198130774
+      autumn forest (bare)_393: 1712082779
+      autumn forest (bare)_394: 334333902
+      autumn forest (bare)_395: -1354958989
+      autumn forest (bare)_396: 1993881607
+      autumn forest (bare)_397: -774605391
+      autumn forest (bare)_398: -1475288017
+      autumn forest (bare)_399: 868278451
+      autumn forest (bare)_4: -1309520143
+      autumn forest (bare)_40: 131735706
+      autumn forest (bare)_400: -155006824
+      autumn forest (bare)_401: 116239276
+      autumn forest (bare)_402: -614108258
+      autumn forest (bare)_403: -1802814103
+      autumn forest (bare)_404: 1168532945
+      autumn forest (bare)_405: -1003144043
+      autumn forest (bare)_406: 2110902020
+      autumn forest (bare)_407: -450231555
+      autumn forest (bare)_408: 1705078613
+      autumn forest (bare)_409: -2101914572
+      autumn forest (bare)_41: 1503850507
+      autumn forest (bare)_410: -104195018
+      autumn forest (bare)_411: -696177331
+      autumn forest (bare)_412: -2077879287
+      autumn forest (bare)_413: -373973712
+      autumn forest (bare)_414: 959112034
+      autumn forest (bare)_415: 124781370
+      autumn forest (bare)_416: -34567732
+      autumn forest (bare)_417: -2102059193
+      autumn forest (bare)_418: -1810489774
+      autumn forest (bare)_419: 2143235744
+      autumn forest (bare)_42: 1046774105
+      autumn forest (bare)_420: -902623986
+      autumn forest (bare)_421: 2030266633
+      autumn forest (bare)_422: 1483768974
+      autumn forest (bare)_423: 440951599
+      autumn forest (bare)_424: 1159996309
+      autumn forest (bare)_425: -1088348129
+      autumn forest (bare)_426: -259664087
+      autumn forest (bare)_427: -208665300
+      autumn forest (bare)_428: 424897368
+      autumn forest (bare)_429: 967906157
+      autumn forest (bare)_43: -1397826919
+      autumn forest (bare)_430: -829145729
+      autumn forest (bare)_431: -2054319622
+      autumn forest (bare)_432: 1670423681
+      autumn forest (bare)_433: -313246414
+      autumn forest (bare)_434: -1123162479
+      autumn forest (bare)_435: 905461905
+      autumn forest (bare)_436: -104098097
+      autumn forest (bare)_437: 792622126
+      autumn forest (bare)_438: 279172410
+      autumn forest (bare)_439: 1132903980
+      autumn forest (bare)_44: -1416564267
+      autumn forest (bare)_440: 578829928
+      autumn forest (bare)_441: -723511507
+      autumn forest (bare)_442: -1432246705
+      autumn forest (bare)_443: 815597983
+      autumn forest (bare)_444: 1612254849
+      autumn forest (bare)_445: -1112790785
+      autumn forest (bare)_446: 296209154
+      autumn forest (bare)_447: 486740411
+      autumn forest (bare)_448: -292283917
+      autumn forest (bare)_449: 1702471673
+      autumn forest (bare)_45: 2086758428
+      autumn forest (bare)_450: 1105709982
+      autumn forest (bare)_451: 1214289587
+      autumn forest (bare)_452: 549776473
+      autumn forest (bare)_453: -561201245
+      autumn forest (bare)_454: 1634941343
+      autumn forest (bare)_455: -1499228347
+      autumn forest (bare)_456: -579320157
+      autumn forest (bare)_457: 848555954
+      autumn forest (bare)_458: -392565631
+      autumn forest (bare)_459: 342092217
+      autumn forest (bare)_46: 464264997
+      autumn forest (bare)_460: 530984532
+      autumn forest (bare)_461: 45392134
+      autumn forest (bare)_462: 962741360
+      autumn forest (bare)_463: -616536035
+      autumn forest (bare)_464: -839193272
+      autumn forest (bare)_465: -1617662373
+      autumn forest (bare)_466: -882699963
+      autumn forest (bare)_467: -1915419062
+      autumn forest (bare)_468: 1344536853
+      autumn forest (bare)_469: 1622166867
+      autumn forest (bare)_47: 858523567
+      autumn forest (bare)_470: -1713137752
+      autumn forest (bare)_471: 1895878843
+      autumn forest (bare)_472: -720558775
+      autumn forest (bare)_473: 1822209341
+      autumn forest (bare)_474: -597251226
+      autumn forest (bare)_475: -1095829514
+      autumn forest (bare)_476: -114040843
+      autumn forest (bare)_477: 1781482682
+      autumn forest (bare)_478: 551976306
+      autumn forest (bare)_479: -810608746
+      autumn forest (bare)_48: -192996470
+      autumn forest (bare)_480: -614433276
+      autumn forest (bare)_481: 329853671
+      autumn forest (bare)_482: 1942436871
+      autumn forest (bare)_483: -1112897539
+      autumn forest (bare)_484: -623048014
+      autumn forest (bare)_485: -417871959
+      autumn forest (bare)_486: -2121082501
+      autumn forest (bare)_487: -1926038914
+      autumn forest (bare)_488: -677337691
+      autumn forest (bare)_489: 457723839
+      autumn forest (bare)_49: -155370546
+      autumn forest (bare)_490: -34349118
+      autumn forest (bare)_491: 768811631
+      autumn forest (bare)_492: -1929943123
+      autumn forest (bare)_493: 1729005354
+      autumn forest (bare)_494: 1356208962
+      autumn forest (bare)_495: 2073614855
+      autumn forest (bare)_496: 1785425885
+      autumn forest (bare)_497: 1539391483
+      autumn forest (bare)_498: 1557114730
+      autumn forest (bare)_499: -7051189
+      autumn forest (bare)_5: 708923970
+      autumn forest (bare)_50: 1333536489
+      autumn forest (bare)_500: -1881455010
+      autumn forest (bare)_501: -1760788039
+      autumn forest (bare)_502: 1688817986
+      autumn forest (bare)_503: -682254880
+      autumn forest (bare)_504: -872400669
+      autumn forest (bare)_505: -793039349
+      autumn forest (bare)_506: 928840984
+      autumn forest (bare)_507: -1843188962
+      autumn forest (bare)_508: 76826957
+      autumn forest (bare)_509: -239693954
+      autumn forest (bare)_51: 337617307
+      autumn forest (bare)_510: -476653041
+      autumn forest (bare)_511: -248353876
+      autumn forest (bare)_512: 451564333
+      autumn forest (bare)_513: -1941672362
+      autumn forest (bare)_514: 1193575493
+      autumn forest (bare)_515: -1402738011
+      autumn forest (bare)_516: -199494740
+      autumn forest (bare)_517: 979458132
+      autumn forest (bare)_518: -914722302
+      autumn forest (bare)_519: -1949873743
+      autumn forest (bare)_52: -1409464038
+      autumn forest (bare)_520: 2096822655
+      autumn forest (bare)_521: -1546856961
+      autumn forest (bare)_522: -1459741913
+      autumn forest (bare)_523: 1163441094
+      autumn forest (bare)_524: 330187923
+      autumn forest (bare)_525: 1888699670
+      autumn forest (bare)_526: -427624839
+      autumn forest (bare)_527: 461371546
+      autumn forest (bare)_528: -1022350102
+      autumn forest (bare)_529: 1285519670
+      autumn forest (bare)_53: 68230941
+      autumn forest (bare)_530: 1554406478
+      autumn forest (bare)_531: 1482858264
+      autumn forest (bare)_532: -1319859232
+      autumn forest (bare)_533: 1119998587
+      autumn forest (bare)_534: 1513253976
+      autumn forest (bare)_535: 1598460522
+      autumn forest (bare)_536: -1189966943
+      autumn forest (bare)_537: -344022127
+      autumn forest (bare)_538: -1346633716
+      autumn forest (bare)_539: -2134907819
+      autumn forest (bare)_54: -1389197478
+      autumn forest (bare)_540: -306044342
+      autumn forest (bare)_541: 2009176315
+      autumn forest (bare)_542: 1777961881
+      autumn forest (bare)_543: 97609801
+      autumn forest (bare)_544: -514407356
+      autumn forest (bare)_545: 1071033752
+      autumn forest (bare)_546: 1702543096
+      autumn forest (bare)_547: -1888870990
+      autumn forest (bare)_548: -400053051
+      autumn forest (bare)_549: 1836332185
+      autumn forest (bare)_55: 1404796253
+      autumn forest (bare)_550: -1218231093
+      autumn forest (bare)_551: 811211777
+      autumn forest (bare)_552: 1803625315
+      autumn forest (bare)_553: 1673672058
+      autumn forest (bare)_554: -1954633253
+      autumn forest (bare)_555: 133677066
+      autumn forest (bare)_556: 1490181540
+      autumn forest (bare)_557: 822261544
+      autumn forest (bare)_558: -476400141
+      autumn forest (bare)_559: 628856025
+      autumn forest (bare)_56: 2025258132
+      autumn forest (bare)_560: -951755828
+      autumn forest (bare)_561: -575270302
+      autumn forest (bare)_562: -1908784167
+      autumn forest (bare)_563: 954538868
+      autumn forest (bare)_564: 90686228
+      autumn forest (bare)_565: -931834367
+      autumn forest (bare)_566: 24298090
+      autumn forest (bare)_567: -1399446054
+      autumn forest (bare)_568: -2081542790
+      autumn forest (bare)_569: -743871199
+      autumn forest (bare)_57: -719980679
+      autumn forest (bare)_570: 190826211
+      autumn forest (bare)_571: 1433209639
+      autumn forest (bare)_572: -384812409
+      autumn forest (bare)_573: 95561040
+      autumn forest (bare)_574: -90597563
+      autumn forest (bare)_575: 1127156556
+      autumn forest (bare)_576: 591321067
+      autumn forest (bare)_577: 932520853
+      autumn forest (bare)_578: -1873521820
+      autumn forest (bare)_579: -1418162747
+      autumn forest (bare)_58: -1879375249
+      autumn forest (bare)_580: -455756347
+      autumn forest (bare)_581: -555190043
+      autumn forest (bare)_582: -322204609
+      autumn forest (bare)_583: -991094012
+      autumn forest (bare)_584: 2080259328
+      autumn forest (bare)_585: 1382405869
+      autumn forest (bare)_586: 9304569
+      autumn forest (bare)_587: 1304107431
+      autumn forest (bare)_588: 1518889168
+      autumn forest (bare)_589: -772549084
+      autumn forest (bare)_59: 699875374
+      autumn forest (bare)_590: -1428852651
+      autumn forest (bare)_591: 1411214923
+      autumn forest (bare)_592: -1131256319
+      autumn forest (bare)_593: -1335213432
+      autumn forest (bare)_594: -1566807915
+      autumn forest (bare)_595: 1881625006
+      autumn forest (bare)_596: -210976413
+      autumn forest (bare)_597: -1528650203
+      autumn forest (bare)_598: 86188520
+      autumn forest (bare)_599: 689289849
+      autumn forest (bare)_6: -355915912
+      autumn forest (bare)_60: 1826576334
+      autumn forest (bare)_600: 1228560919
+      autumn forest (bare)_601: 1996128834
+      autumn forest (bare)_602: -1007273338
+      autumn forest (bare)_603: -81123935
+      autumn forest (bare)_604: 760095286
+      autumn forest (bare)_605: -383280392
+      autumn forest (bare)_606: -1001097608
+      autumn forest (bare)_607: 1982356435
+      autumn forest (bare)_608: 159994852
+      autumn forest (bare)_609: -1789378387
+      autumn forest (bare)_61: -808394877
+      autumn forest (bare)_610: -818999075
+      autumn forest (bare)_611: -621447882
+      autumn forest (bare)_612: -405461777
+      autumn forest (bare)_613: 114330333
+      autumn forest (bare)_614: -941398862
+      autumn forest (bare)_615: -1017286133
+      autumn forest (bare)_616: -264877537
+      autumn forest (bare)_617: 1370176762
+      autumn forest (bare)_618: 728733234
+      autumn forest (bare)_619: 1472398882
+      autumn forest (bare)_62: -332451549
+      autumn forest (bare)_620: -840698527
+      autumn forest (bare)_621: 489528695
+      autumn forest (bare)_622: -705542479
+      autumn forest (bare)_623: 1212410030
+      autumn forest (bare)_624: -1735809025
+      autumn forest (bare)_625: 1815871073
+      autumn forest (bare)_626: -753220919
+      autumn forest (bare)_627: -756674796
+      autumn forest (bare)_628: 502888801
+      autumn forest (bare)_629: -1269928888
+      autumn forest (bare)_63: -1971923690
+      autumn forest (bare)_630: -92804161
+      autumn forest (bare)_631: 1731575124
+      autumn forest (bare)_632: -882303774
+      autumn forest (bare)_633: -648190637
+      autumn forest (bare)_634: 525802221
+      autumn forest (bare)_635: -1698505623
+      autumn forest (bare)_636: -871688375
+      autumn forest (bare)_637: -756329177
+      autumn forest (bare)_638: 2117807838
+      autumn forest (bare)_639: -306366223
+      autumn forest (bare)_64: -40151345
+      autumn forest (bare)_640: 1178493204
+      autumn forest (bare)_65: 516997238
+      autumn forest (bare)_66: -2078878553
+      autumn forest (bare)_67: -1403397121
+      autumn forest (bare)_68: 1784807808
+      autumn forest (bare)_69: 31582805
+      autumn forest (bare)_7: -2110895039
+      autumn forest (bare)_70: -1845985721
+      autumn forest (bare)_71: -1115054334
+      autumn forest (bare)_72: -761510901
+      autumn forest (bare)_73: 1368916793
+      autumn forest (bare)_74: -1814045382
+      autumn forest (bare)_75: 1969951536
+      autumn forest (bare)_76: 1961738525
+      autumn forest (bare)_77: -142913212
+      autumn forest (bare)_78: -1632323550
+      autumn forest (bare)_79: 703555623
+      autumn forest (bare)_8: 260668826
+      autumn forest (bare)_80: 838178439
+      autumn forest (bare)_81: -1918582014
+      autumn forest (bare)_82: -631770574
+      autumn forest (bare)_83: 1685517527
+      autumn forest (bare)_84: 743145782
+      autumn forest (bare)_85: 133958469
+      autumn forest (bare)_86: 77261637
+      autumn forest (bare)_87: -1578243575
+      autumn forest (bare)_88: -2030575546
+      autumn forest (bare)_89: 1467590159
+      autumn forest (bare)_9: -923774925
+      autumn forest (bare)_90: -251777559
+      autumn forest (bare)_91: 153648621
+      autumn forest (bare)_92: 1254621576
+      autumn forest (bare)_93: -1797995658
+      autumn forest (bare)_94: 310672104
+      autumn forest (bare)_95: -472318281
+      autumn forest (bare)_96: 2034030431
+      autumn forest (bare)_97: 1996413778
+      autumn forest (bare)_98: 688458281
+      autumn forest (bare)_99: -1589315850
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
