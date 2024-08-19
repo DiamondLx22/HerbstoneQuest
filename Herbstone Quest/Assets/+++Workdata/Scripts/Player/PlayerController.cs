@@ -38,6 +38,10 @@ public class PlayerController : MonoBehaviour
         moveAction = inputActions.Player.Move;
         runAction = inputActions.Player.Run;
         interactAction = inputActions.Player.Interact;
+        if (playerAction == null)
+        {
+            playerAction = GetComponent<PlayerActions>(); // or another method to retrieve the component
+        }
     }
 
     private void OnEnable()
@@ -50,7 +54,14 @@ public class PlayerController : MonoBehaviour
         runAction.canceled += StopRunning;
 
         interactAction.performed += Interact;
-        playerAction.Subscribe();
+        if (playerAction == null)
+        {
+            Debug.LogError("playerAction is null in OnEnable!");
+        }
+        else
+        {
+            playerAction.Subscribe();
+        }
     }
 
     private void FixedUpdate()

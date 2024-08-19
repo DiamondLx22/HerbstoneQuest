@@ -60,9 +60,9 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "AxeAttack",
+                    "name": "RangeAttack",
                     "type": "Button",
-                    "id": "76cde723-0f69-4e5a-8eaa-431c39c6a37e",
+                    "id": "4220abc5-2c22-46d3-b98d-5d0287896280",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -325,12 +325,12 @@
                 },
                 {
                     "name": "",
-                    "id": "5b0ebdc1-0869-48a9-8b3e-f7b116136962",
-                    "path": "<Mouse>/leftButton",
+                    "id": "8df20408-40e6-410e-b4c8-f9c3fd6c1fa0",
+                    "path": "<Keyboard>/t",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "AxeAttack",
+                    "action": "RangeAttack",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
