@@ -52003,8 +52003,6 @@ GameObject:
   - component: {fileID: 489119947}
   - component: {fileID: 489119951}
   - component: {fileID: 489119950}
-  - component: {fileID: 489119949}
-  - component: {fileID: 489119952}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -52029,26 +52027,6 @@ Transform:
   - {fileID: 632669216}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &489119949
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 489119946}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 18e5ebe42ef34ee46a5a2e0564c13fc7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  animPlayer:
-  - {fileID: 1077615751}
-  isAttacking: 0
-  AttackType: 0
-  StaffID: 0
-  AttackID: 0
-  dirX: 0
-  dirY: 0
 --- !u!70 &489119950
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -52111,26 +52089,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &489119952
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 489119946}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8465a06b9c1eafb4b9760f017acf530c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  selectedInteractables: []
-  anim:
-  - {fileID: 1077615751}
-  rb: {fileID: 489119951}
-  walkSpeed: 7
-  runSpeed: 10
-  idleTimeThreshold: 10
-  playerAction: {fileID: 489119949}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
