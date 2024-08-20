@@ -9,14 +9,14 @@ public class PlayerActions : MonoBehaviour
     private PlayerController playerController;
 
     private InputAction rangeAttackAction;
-    //private InputAction waterAction;
+    private InputAction waterAction;
     //private InputAction axeAttackAction;
 
     public Animator[] animPlayer;
     //public Animator[] animWeapon;
    // public Animator[] animWeaponEffects;
     
-    //public bool isWatering;
+    public bool isWatering;
     //public bool isAxeAttacking;
     public bool isAttacking;
     public float AttackType;
@@ -46,15 +46,15 @@ public class PlayerActions : MonoBehaviour
         //playerController = GetComponent<PlayerController>();
         //playerController = GameObject.Find("Player").GetComponent<PlayerController>();
         //waterAction = playerController.waterAction;
-        //Debug.Log(waterAction);
+        Debug.Log(waterAction);
         Debug.Log(inputActions.Player.RangeAttack);
     }
 
     public void Subscribe()
     {
-        //waterAction = playerController.inputActions.Player.Water;
-        //waterAction.performed += OnWateringStarted;
-        //waterAction.canceled += OnWateringStopped;
+        waterAction = playerController.inputActions.Player.Water;
+        waterAction.performed += OnWateringStarted;
+        waterAction.canceled += OnWateringStopped;
         playerController = GetComponent<PlayerController>();
         if (playerController == null)
         {
@@ -78,9 +78,9 @@ public class PlayerActions : MonoBehaviour
 
     public void Unsubscribe()
     {
-        //waterAction = playerController.inputActions.Player.Water;
-        //waterAction.performed -= OnWateringStarted;
-        //waterAction.canceled -= OnWateringStopped;
+        waterAction = playerController.inputActions.Player.Water;
+        waterAction.performed -= OnWateringStarted;
+        waterAction.canceled -= OnWateringStopped;
         
         rangeAttackAction = playerController.inputActions.Player.RangeAttack;
         rangeAttackAction.performed -= OnRangeAttackingStarted;
@@ -96,7 +96,7 @@ public class PlayerActions : MonoBehaviour
         Debug.Log("test1");
         playerController.ResetIdleTimer();
         //playerController.DisableInput();
-        //isWatering = true;
+        isWatering = true;
         UpdateAnimations();
     }
 
@@ -105,7 +105,7 @@ public class PlayerActions : MonoBehaviour
         Debug.Log("test2");
         playerController.ResetIdleTimer();
         //playerController.EnableInput();
-        //isWatering = false;
+        isWatering = false;
         UpdateAnimations();
     }
     
@@ -170,7 +170,7 @@ public class PlayerActions : MonoBehaviour
 
         for (int i = 0; i < animPlayer.Length; i++)
         {
-            //animPlayer[i].SetBool("isWatering", isWatering);
+            animPlayer[i].SetBool("isWatering", isWatering);
             animPlayer[i].SetBool("isAttacking", isAttacking);
         }
     }
