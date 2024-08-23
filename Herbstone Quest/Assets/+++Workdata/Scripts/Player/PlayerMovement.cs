@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
     private InputAction moveAction;
     private InputAction interactAction;
     public Rigidbody2D rb;
-    public Animator anim;
+    public Animator[] anim;
     private Vector2 moveInput;
     public float movespeed;
     //private Interactable selectedInteractable;
@@ -91,12 +91,18 @@ public class PlayerMovement : MonoBehaviour
     {
         if (moveInput != Vector2.zero)
         {
-            anim.SetFloat("dirX", moveInput.x);
-            anim.SetFloat("dirY", moveInput.y);
+            for (int i = 0; i < anim.Length; i++)
+            {
+                anim[i].SetFloat("dirX", moveInput.x);
+                anim[i].SetFloat("dirY", moveInput.y);
+            }
+
+        }
+        for (int i = 0; i < anim.Length; i++)
+        {
+            anim[i].SetBool("isMoving", moveInput != Vector2.zero);
         }
 
-
-        anim.SetBool("isMoving", moveInput != Vector2.zero);
     } 
     
    
